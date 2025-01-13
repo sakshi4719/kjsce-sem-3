@@ -1,0 +1,9 @@
+14.1 Processor Organization
+Register Organization
+13.3 Instruction Format : till+including Allocation of Bits : pages 495 496
+13.4 x86 Instruction Format 
+13.1 Addressing
+14.3 Instruction Cycle
+20.1 Micro Operations : ONLY Fetch Indirect Interrupt
+20.2 Control of the Processor
+Microinstuction Sequencing and Execution
